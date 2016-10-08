@@ -8,7 +8,7 @@ url="https://github.com/x11tete11x/dropbox-plasma-dark-icons"
 license=('GPL')
 depends=('hicolor-icon-theme' 'dropbox')
 conflicts=('dropbox-kfilebox-icons'
-           'dropbox-plasma-light-icons')           
+           'dropbox-plasma-light-icons-git')           
 source=(git://github.com/x11tete11x/dropbox-plasma-dark-icons.git)
 md5sums=(SKIP)
 install="dropbox-plasma-dark-icons.install"
